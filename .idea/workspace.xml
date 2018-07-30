@@ -7,43 +7,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37f7a22c-b7e6-4db8-874a-c9468858b87b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/AboutUsMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Constants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Menus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/util/DataBaseOperationUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/DataBaseDao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/OracleDataBaseDaoImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/domain/Column.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/domain/ColumnOperator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/BeanHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/Constants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/DataBaseOperationUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/SuperBeanHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/AboutUs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/AboutUsExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/update/UploadFile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/vo/AboutUsVO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/AboutUsService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/MybatisExampleHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/Tools.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/GenericService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/Response.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/Token.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/service/DataBaseService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/service/impl/OracleDataBaseServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/AboutUsServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/SwaggerConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/MyJob.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/PropertyConfigurer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/Resp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AboutUsController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/servlet/DefaultHandlerExceptionResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/servlet/EmptyRequestParamResolver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/src/main/resources/mybatis/com/haomostudio/JuniorSpringMVCTemplate/AboutUsMapper.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/milk/dao/AboutUsMapper.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/AboutUsMapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/milk/dao/common/Constants.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/milk/dao/common/Menus.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Menus.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/milk/dao/common/util/DataBaseOperationUtils.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/util/DataBaseOperationUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/milk/dao/impl/DataBaseDao.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/DataBaseDao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/milk/dao/impl/OracleDataBaseDaoImpl.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/OracleDataBaseDaoImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/common/domain/Column.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/domain/Column.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/common/domain/ColumnOperator.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/domain/ColumnOperator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/common/util/BeanHelper.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/BeanHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/common/util/Constants.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/common/util/DataBaseOperationUtils.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/DataBaseOperationUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/common/util/SuperBeanHelper.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/SuperBeanHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/po/AboutUs.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/AboutUs.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/po/AboutUsExample.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/AboutUsExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/po/update/UploadFile.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/update/UploadFile.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/milk/vo/AboutUsVO.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/vo/AboutUsVO.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/AboutUsService.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/AboutUsService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/HmUtils/MybatisExampleHelper.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/MybatisExampleHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/HmUtils/Tools.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/Tools.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/common/GenericService.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/GenericService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/common/Response.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/Response.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/common/Token.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/Token.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/common/service/DataBaseService.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/service/DataBaseService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/common/service/impl/OracleDataBaseServiceImpl.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/service/impl/OracleDataBaseServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/milk/service/impl/AboutUsServiceImpl.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/AboutUsServiceImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/milk/SwaggerConfig.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/SwaggerConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/milk/common/MyJob.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/MyJob.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/milk/common/PropertyConfigurer.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/PropertyConfigurer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/milk/common/Resp.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/Resp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/milk/controller/AboutUsController.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AboutUsController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/milk/servlet/DefaultHandlerExceptionResolver.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/servlet/DefaultHandlerExceptionResolver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/milk/servlet/EmptyRequestParamResolver.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/servlet/EmptyRequestParamResolver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/resources/mybatis/com/haomostudio/milk/AboutUsMapper.xml" afterPath="$PROJECT_DIR$/web/src/main/resources/mybatis/com/haomostudio/JuniorSpringMVCTemplate/AboutUsMapper.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/resources/spring/spring-mvc-config.xml" afterPath="$PROJECT_DIR$/web/src/main/resources/spring/spring-mvc-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/milk/test/Test.java" afterPath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/milk/test/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/milk/util/MyJob.java" afterPath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/milk/util/MyJob.java" />
     </list>
     <ignored path="$PROJECT_DIR$/dao/target/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
@@ -545,6 +543,32 @@
               <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
               <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -817,12 +841,12 @@
       <updated>1532940984777</updated>
       <workItem from="1532940988499" duration="718000" />
       <workItem from="1532942346183" duration="119000" />
-      <workItem from="1532942502581" duration="130000" />
+      <workItem from="1532942502581" duration="366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="967000" />
+    <option name="totallyTimeSpent" value="1203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -838,7 +862,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39925373" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39925373" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -849,9 +873,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -859,7 +884,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
