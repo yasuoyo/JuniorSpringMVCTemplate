@@ -1,8 +1,8 @@
-package com.haomostudio.JuniorSpringMVCTemplate.test;
+package com.haomostudio.milk.test;
 
 import com.guanpb.poi.excel.ExcelExportUtil;
 import com.guanpb.poi.excel.ExcelImportUtil;
-import com.haomostudio.JuniorSpringMVCTemplate.pojo.User;
+import com.haomostudio.milk.pojo.User;
 
 import java.util.ArrayList;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.haomostudio.JuniorSpringMVCTemplate.util;
+package com.haomostudio.milk.util;
 
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
