@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.haomostudio.milk</groupId>
-		<artifactId>milk</artifactId>
+		<groupId>com.haomostudio.JuniorSpringMVCTemplate</groupId>
+		<artifactId>JuniorSpringMVCTemplate</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
@@ -21,14 +21,14 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>com.haomostudio.milk</groupId>
+			<groupId>com.haomostudio.JuniorSpringMVCTemplate</groupId>
 			<artifactId>dao</artifactId>
-			<version>${milk.dao.version}</version>
+			<version>${JuniorSpringMVCTemplate.dao.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>com.haomostudio.milk</groupId>
+			<groupId>com.haomostudio.JuniorSpringMVCTemplate</groupId>
 			<artifactId>domain</artifactId>
-			<version>${milk.dao.version}</version>
+			<version>${JuniorSpringMVCTemplate.dao.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>com.sap</groupId>

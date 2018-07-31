@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>com.haomostudio.milk</groupId>
-		<artifactId>milk</artifactId>
+		<groupId>com.haomostudio.JuniorSpringMVCTemplate</groupId>
+		<artifactId>JuniorSpringMVCTemplate</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
@@ -15,15 +15,17 @@
     <description>dao</description>
 	<url>http://maven.apache.org</url>
 
+
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
 	<dependencies>
 		<dependency>
-			<groupId>com.haomostudio.milk</groupId>
+			<groupId>com.haomostudio.JuniorSpringMVCTemplate</groupId>
 			<artifactId>domain</artifactId>
-			<version>${milk.domain.version}</version>
+			<version>${JuniorSpringMVCTemplate.domain.version}</version>
 		</dependency>
 	</dependencies>
 
